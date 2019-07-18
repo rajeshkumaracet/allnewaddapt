@@ -1,0 +1,66 @@
+.list {
+  margin: 5px;
+  padding: 10px;
+}
+h1,
+p,
+button,
+hr {
+  margin-top: 10px;
+}
+p {
+  text-align: justify;
+}
+
+h1 {
+  color: #87ceeb;
+}
+
+.btn {
+  background: white;
+  border-radius: 18px;
+  outline: none;
+  margin-top:10px;
+  text-align: center;
+  text-decoration: none;
+  border: 3px solid #a9a9a9 !important;
+  width: 100px;
+  color: black;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}
+.arrowIcon {
+  text-align: center;
+  margin-left: 40vw;
+}
+
+.group {
+  display: flex;
+  align-items: center;
+}
+
+.main{
+  margin:10px;
+  padding:10px;
+  border:2px solid #CCC;
+}
+
+.head{
+  text-align: center;
+  text-transform: uppercase;
+}
+.goback{
+  text-decoration: none;
+  padding:8px;
+  margin-top:210px;
+  background: red;
+  border-radius: 12px;
+  color:white;
+  width:500px;
+  margin-top:1000px;
+}
+
+.sub{
+  margin-bottom:30px;
+}
